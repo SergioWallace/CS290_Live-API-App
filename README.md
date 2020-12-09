@@ -1,5 +1,6 @@
-# HW3 - Live API App
+# Live API App
 
-CS290 Spring 2020
-Midterm Homework #3 - Public Network API for live table data
+CS290
+- App that displays live table data
+- Uses Public Network API that provides Dragon Ball Z data
 
